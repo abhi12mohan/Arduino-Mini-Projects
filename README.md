@@ -1,7 +1,7 @@
 # Arduino Mini-Projects
 
 ## Overview
-### 1. Bop-It Game - A unique take on the traditional "Bop-It" toy. 
+### 1. Bop-It Game - A unique take on the classic "Bop-It" toy. 
 The player must complete one of the following actions within the provided time interval: "Bop" (press a button), shout, tilt, or spin. Each correct successive completion of a task corresponds to another point to the player's score. The player continues the game until they incorrectly complete the presented action or run out of time. The player's score is then sent and stored to a database, from which the player can see their current best score, in addition to their current standing in relation to other "Bop-It" players.
 
 Link to demonstration: https://www.youtube.com/watch?v=l-Du1DKhX9U&ab_channel=AbhishekMohan
